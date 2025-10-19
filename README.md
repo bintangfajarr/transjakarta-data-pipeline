@@ -177,7 +177,7 @@ docker-compose down -v
 
 ---
 
-## ⏰ Schedule
+## Schedule
 
 Pipeline dijadwalkan berjalan otomatis:
 - **Waktu:** Setiap hari pukul 07:00 WIB
@@ -186,7 +186,7 @@ Pipeline dijadwalkan berjalan otomatis:
 
 ---
 
-## 📝 Logging
+## Logging
 
 Setiap task mencatat:
 - Status eksekusi (Success/Failed)
